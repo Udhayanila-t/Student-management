@@ -1,0 +1,58 @@
+.header{
+  background-color: black;
+  height: 50px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0 20px;
+  
+}
+.title{
+  color: aliceblue;
+  margin: 20px;
+  padding: 10px;
+}
+.navi{
+  display: flex;
+  color: aliceblue;
+}
+.navi a{
+  color: aliceblue;
+  text-decoration: none;
+}
+.head{
+  width: 500px;
+  
+}
+.cap{
+  width: 250px;
+  height: 250px;
+}
+.Hcontent{
+  margin-top: 50px;
+  margin-left: 80px;
+  
+}
+.whole{
+  display: flex;
+  margin-left: 100px;
+  
+}
+.book{
+  width: 500px;
+  height: 500px;
+  margin-top: 70px;
+  margin-left: 70px;
+}
+.form{
+  width: 700px;
+  padding: 5px;
+  margin-top: 70px;
+  margin-left: 100px;
+  border: solid #ddd;
+  border-radius: 5%;
+}
+.formcon{
+  margin: 10px;
+}
+
